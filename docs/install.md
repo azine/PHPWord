@@ -4,7 +4,7 @@
 
 Mandatory:
 
--  PHP 7.1+
+-  PHP 8.5.12+
 -  PHP [DOM extension](http://php.net/manual/en/book.dom.php)
 -  PHP [JSON extension](http://php.net/manual/en/book.json.php)
 -  PHP [XML Parser extension](http://www.php.net/manual/en/xml.installation.php)
